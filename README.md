@@ -1,11 +1,11 @@
-<h1 align="centre">LoungeMUSIC V1.0 🎵</h1>
+<h1 align="centre">Hatıralara Music 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
 #### POWERED BY [Bodrumlu](https://t.me/bodrumlubebekk)
 ### Destek kanalı [@Loungemusicsupport](https://t.me/loungemusicsupport)
 
 <p align="center">
-  <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
+  <img src="https://telegra.ph/file/a0c4a5e178ac3bf74050e.jpg">
 </p>
 
 <h2> Özellikler 🔥 </h2>
@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bodrumlubebek/LoungeMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/birkem)
 
 Get pyrogram (p)  `SESSION` from here:
 
